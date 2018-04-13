@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+	<category>
+				<statment>When do you feel at your best?</statment>
+				<choice>
+				<line>in the morning</line><A>1</A>
+				<line>during the afternoon and early evening</line><B>2</B>
+				<line>late at night</line><C>3</C>
+				</choice>
+				<img>one</img>
+	</category>
+		
+</quiz>

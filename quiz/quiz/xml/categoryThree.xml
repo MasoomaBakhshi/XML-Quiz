@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categoryThree>
+  <question>
+    <statment>Which of the following colors do you like most? </statment>
+    <choice>
+      <line>red or orange</line>
+      <value>6</value>
+      <line>balck </line>
+      <value>7</value>
+      <line>yellow or light blue </line>
+      <value>5</value>
+      <line>green</line>
+      <value>4</value>
+      <line>dark blue or purple</line>
+      <value>3</value>
+      <line>white</line>
+      <value>2</value>
+      <line>brown or gray</line>
+      <value>1</value>
+    </choice>
+    <img>eight</img>
+  </question>
+  <question>
+    <statment>When you are in bed at night, in those last few moments before going to sleep, tou lie... </statment>
+    <choice>
+      <line>stretched out on your back </line>
+      <value>7</value>
+      <line>stretched out face down on your stomach </line>
+      <value>6</value>
+      <line>on your side, slightly curled</line>
+      <value>4</value>
+      <line>with your head on one arm</line>
+      <value>2</value>
+      <line>with your head under the covers</line>
+      <value>1</value>
+    </choice>
+    <img>nine</img>
+  </question>
+  <question>
+    <statment>You often dream that you are... </statment>
+    <choice>
+      <line>falling</line>
+      <value>4</value>
+      <line>fighting or struggling</line>
+      <value>2</value>
+      <line>searching for something or somebody</line>
+      <value>3</value>
+      <line>flying or floating</line>
+      <value>5</value>
+      <line>you usually have dreamless sleep</line>
+      <value>6</value>
+      <line>your dreams are always pleasant</line>
+      <value>1</value>
+    </choice>
+    <img>ten</img>
+  </question>
+  <question>
+    <statment>Do you believe in love at first sight?</statment>
+    <choice>
+      <line>Totally</line>
+      <value>4</value>
+      <line>Not at all</line>
+      <value>3</value>
+      <line>Neutral</line>
+      <value>7</value>
+    </choice>
+    <img>love</img>
+  </question>
+  <question>
+    <statment>What kind of dressing do you like for yourself?</statment>
+    <choice>
+      <line>Practical and comfortable</line>
+      <value>7</value>
+      <line>The outfits reflects how do I feel?</line>
+      <value>3</value>
+      <line>Easy and quick to wear.</line>
+      <value>2</value>
+      <line>Depends on my gathering</line>
+      <value>6</value>
+      <line>I hardly know, what I am putting on...</line>
+      <value>1</value>
+    </choice>
+    <img>dressing</img>
+  </question>
+  <question>
+    <statment>When you are trying to come up with ideas for a new project, you are most likely to find inspiration...</statment>
+    <choice>
+      <line>By reflecting on the projects by myself.</line>
+      <value>4</value>
+      <line>By discussing my ideas with others.</line>
+      <value>6</value>
+      <line>By researching other's works.</line>
+      <value>7</value>
+      <line>By working in my favorite place.</line>
+      <value>3</value>
+    </choice>
+    <img>blub</img>
+  </question>
+  <question>
+    <statment>what do you like in the morning?</statment>
+    <choice>
+      <line>Tea</line>
+      <value>5</value>
+      <line>Coffee</line>
+      <value>4</value>
+      <line>Juice</line>
+      <value>7</value>
+      <line>My own special drink...</line>
+      <value>3</value>
+    </choice>
+    <img>drink</img>
+  </question>
+  <question>
+    <statment>Do you like people around you most of the time?</statment>
+    <choice>
+      <line>Yes, I love being social.</line>
+      <value>7</value>
+      <line>No, It becomes irritating.</line>
+      <value>3</value>
+      <line>Depends</line>
+      <value>5</value>
+    </choice>
+    <img>people</img>
+  </question>
+</categoryThree>

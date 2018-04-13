@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<admins>
+  <admin>
+    <name>masooma</name>
+    <email>innocent.carol@gmail.com</email>
+    <password>eb5d53872989ad835f15152d024e91e72daffc77</password>
+  </admin>
+  <admin>
+    <name>Masooma</name>
+    <email>u3168789@uni.canberra.edu.au</email>
+    <password>eb5d53872989ad835f15152d024e91e72daffc77</password>
+  </admin>
+  <admin>
+    <name>admin</name>
+    <email>reza.hassanzadeh@canberra.edu.au</email>
+    <password>7c222fb2927d828af22f592134e8932480637c0d</password>
+  </admin>
+  <admin>
+    <name>reza</name>
+    <email>reza.hassanzadeh@canberra.edu.au</email>
+    <password>7c222fb2927d828af22f592134e8932480637c0d</password>
+  </admin>
+  <admin>
+    <name>reza</name>
+    <email>reza.hassanzadeh@canberra.edu.au</email>
+    <password>b480c074d6b75947c02681f31c90c668c46bf6b8</password>
+  </admin>
+</admins>

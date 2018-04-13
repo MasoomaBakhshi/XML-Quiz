@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categoryTwo>
+  <question>
+    <statment>When something really amuses you, You react with ... </statment>
+    <choice>
+      <line>a big appreciated laugh</line>
+      <value>6</value>
+      <line>a laugh, but not a loud one  </line>
+      <value>4</value>
+      <line>a quiet chuckle </line>
+      <value>3</value>
+      <line>a sheepish smile  </line>
+      <value>5</value>
+    </choice>
+    <img>five</img>
+  </question>
+  <question>
+    <statment>When you go to a party or social gathering, you... </statment>
+    <choice>
+      <line>make a loud entrance so everyone notices you </line>
+      <value>6</value>
+      <line>make a quiet entrance, looking around for someone you know  </line>
+      <value>4</value>
+      <line>make the quietest entrance, trying to stay unnoticed </line>
+      <value>2</value>
+    </choice>
+    <img>six</img>
+  </question>
+  <question>
+    <statment>When you're working or concentrating very hard, and you're interrupted, you...</statment>
+    <choice>
+      <line>welcome the break </line>
+      <value>6</value>
+      <line>feel extremely irritated  </line>
+      <value>2</value>
+      <line>vary between these two extremes </line>
+      <value>4</value>
+    </choice>
+    <img>seven</img>
+  </question>
+  <question>
+    <statment>You get lost in the wood and suddenly you came across a split in the trail.. which path would you take?</statment>
+    <choice>
+      <line>Right</line>
+      <value>7</value>
+      <line>Left</line>
+      <value>3</value>
+      <line>Straight</line>
+      <value>5</value>
+    </choice>
+    <img>lost</img>
+  </question>
+  <question>
+    <statment>At what time of day do you do your best thinking?</statment>
+    <choice>
+      <line>At the end of the day.</line>
+      <value>2</value>
+      <line>When I am on my own.</line>
+      <value>4</value>
+      <line>When I am faced with challenge.</line>
+      <value>7</value>
+      <line>Sharing ideas with others.</line>
+      <value>6</value>
+      <line>After a cup of tea in the morning.</line>
+      <value>1</value>
+      <line>When I spent time with sketch book.</line>
+      <value>3</value>
+    </choice>
+    <img>thinking</img>
+  </question>
+  <question>
+    <statment>Is the glass half-empty or half-full?</statment>
+    <choice>
+      <line>Half-empty</line>
+      <value>5</value>
+      <line>Half-full</line>
+      <value>7</value>
+      <line>Who cares...</line>
+      <value>3</value>
+    </choice>
+    <img>glass</img>
+  </question>
+  <question>
+    <statment>Who is your favorite family member? </statment>
+    <choice>
+      <line>Mother</line>
+      <value>7</value>
+      <line>Father</line>
+      <value>6</value>
+      <line>Brother</line>
+      <value>4</value>
+      <line>Sister</line>
+      <value>5</value>
+    </choice>
+    <img>family</img>
+  </question>
+</categoryTwo>

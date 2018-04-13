@@ -1,0 +1,34 @@
+<!-----------Start user Login page-------------->
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="style/style.css" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"> 
+<title>Login</title>
+</head>
+
+<body  id="login_page">
+	<!---Logo--->
+	<h1>PERSONALITY QUIZ</h1><h3>"Inspired by Dr. Phil's Test"</h3><h4>Developed By</h4>
+		<div class="logo_login"><img src="images/logo.png" alt="Masooma Bakhshi" title="MasoomaBakhshi"/></div>
+			   <!---User's name form--->
+   			   <div class="alert" id="alert" role="alert"></div>
+                            
+               <form action="code/login.php" method="post" class="form-horizontal" onsubmit="return checksubmit()">
+               
+                	<input type="text" name="name" onchange="checkname(this)"  id="name" placeholder="Your Name*" required></br>
+                  
+                  
+                    <button type="submit" class="btn" id="submit">START</button>
+                  
+                </form>
+			   <!---link to admin login page--->
+                <a href="login_admin.php">Login as Admin</a>
+
+<!---java script file containing all the basic form input functions--->                               
+<script src="code/default.js"></script><br/><br/>
+ <!---footer--->
+<footer>Copyright &copy;<script>new Date().getFullYear()>2010&&document.write("-"+new Date().getFullYear());//display current year</script>, Masooma Bakhshi.</footer>
+</body>
+</html>

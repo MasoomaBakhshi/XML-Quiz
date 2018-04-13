@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categoryOne>
+  <question>
+    <statment>You usually walk...</statment>
+    <choice>
+      <line>fairly fast, with long steps</line>
+      <value>6</value>
+      <line>fairly fast, with little steps</line>
+      <value>4</value>
+      <line>less fast head up, looking the world in the face</line>
+      <value>7</value>
+      <line>less fast, head down</line>
+      <value>2</value>
+      <line>very slowly</line>
+      <value>1</value>
+    </choice>
+    <img>two</img>
+  </question>
+  <question>
+    <statment>When talking to people, you...</statment>
+    <choice>
+      <line>stand with your arms folded</line>
+      <value>4</value>
+      <line>have your hands clasped </line>
+      <value>2</value>
+      <line>have one or both your hands on your hips or in pockets </line>
+      <value>5</value>
+      <line>touch or push the person to whom you are talking </line>
+      <value>7</value>
+      <line>play with your ear, touch your chin or smooth your hair </line>
+      <value>6</value>
+    </choice>
+    <img>three</img>
+  </question>
+  <question>
+    <statment>When relaxing, you sit with ...</statment>
+    <choice>
+      <line>your knees bent with your legs neatly side by side </line>
+      <value>4</value>
+      <line>your legs crossed  </line>
+      <value>6</value>
+      <line>your legs stretched out or straight </line>
+      <value>2</value>
+      <line>one leg curled under you </line>
+      <value>1</value>
+    </choice>
+    <img>four</img>
+  </question>
+  <question>
+    <statment>Which wire you cut in bomb to make it fail?</statment>
+    <choice>
+      <line>Red</line>
+      <value>7</value>
+      <line>Blue</line>
+      <value>4</value>
+    </choice>
+    <img>bomb</img>
+  </question>
+  <question>
+    <statment>What option is right for you?</statment>
+    <choice>
+      <line>I am left handed.</line>
+      <value>5</value>
+      <line>I am right handed.</line>
+      <value>7</value>
+      <line>I am both.</line>
+      <value>3</value>
+    </choice>
+    <img>hands</img>
+  </question>
+  <question>
+    <statment>you learn through:</statment>
+    <choice>
+      <line>Reading articles and discussing others.</line>
+      <value>2</value>
+      <line>Stories,ideas and concepts</line>
+      <value>4</value>
+      <line>Evaluating opinions</line>
+      <value>5</value>
+      <line>Trying things out.</line>
+      <value>6</value>
+      <line>Facts, research and data.</line>
+      <value>7</value>
+    </choice>
+    <img>six</img>
+  </question>
+  <question>
+    <statment>What do you regularly have for lunch?</statment>
+    <choice>
+      <line>Left overs.</line>
+      <value>2</value>
+      <line>Take out.</line>
+      <value>3</value>
+      <line>My easy to make sandwich.</line>
+      <value>4</value>
+      <line>Super healthy.</line>
+      <value>7</value>
+      <line>Whatever I feel, Like on that day.</line>
+      <value>5</value>
+    </choice>
+    <img>lunch</img>
+  </question>
+  <question>
+    <statment>How do you like to relax?</statment>
+    <choice>
+      <line>Listening music.</line>
+      <value>5</value>
+      <line>By reading novel.</line>
+      <value>4</value>
+      <line>By watching TV.</line>
+      <value>6</value>
+      <line>Exercise.</line>
+      <value>7</value>
+    </choice>
+    <img>relax</img>
+  </question>
+  <question>
+    <statment>Do you like your name?</statment>
+    <choice>
+      <line>Yes of course!</line>
+      <value>6</value>
+      <line>Not really....wish I could change</line>
+      <value>3</value>
+      <line>Do not know</line>
+      <value>4</value>
+    </choice>
+    <img>name</img>
+  </question>
+</categoryOne>

@@ -1,0 +1,189 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	}
+/* body's styles*/	
+body{
+	color:  #009900;
+	font-family: 'Nunito', sans-serif;
+	}
+	h1, h2{
+		color:#FCD116;
+		}
+		/* margin around breadcrums*/
+		.breadcrums
+		{
+			margin:2% 5%;
+			}
+	a{
+		text-decoration:none;
+		color:#009900;
+		}
+		
+	/* styles for quiz display pages*/	
+	#quiz{
+		background-image:url(../images/background_login.jpg);
+		background-size:cover;
+		background-repeat:no-repeat;
+		width:80%;
+		margin:auto;
+		text-align:center;
+		margin:10vh auto 5vh auto;
+		min-height:100vh;/* minnimum height is full screen*/
+		overflow:visible;
+		}
+		#result{
+			margin-top:2em;
+			}	
+	
+	/* styles for quiz login pages*/	
+	#login_page{
+		background:#FFFFFF;
+		background-size:cover;
+		background-repeat:no-repeat;
+		Width:80%;
+		overflow:hidden;
+		margin:auto;
+		height:100vh;
+		text-align:center;
+		margin:10vh auto 5vh auto;
+		}
+		
+		
+	/* styles for admin pages*/
+	#admin_page{
+		background:#FFFFFF;
+		background-size:cover;
+		background-repeat:no-repeat;
+		Width:80%;
+		margin:auto;
+		text-align:center;
+		margin:5vh auto 5vh auto;
+		}
+		
+	
+	/* styles for chart page*/	
+	#chart_page{
+		background:#FFFFFF;
+		Width:100%;
+		text-align:center;
+		min-height:100vh;
+		margin:5vh auto 5vh auto;
+		}			
+		.logo_login{
+			text-align:center;
+			}
+			.logo_login img{
+				width:15em;
+				margin:2vh auto;
+				}				
+				/* styles for messages display div*/
+				#alert{
+					color:red;
+					padding-top:1em;}
+		
+		/* styles for form's elements*/			
+		input{
+			width:20%;
+			padding:1em;
+			margin:1em;
+			background-color:#FFFFFF;
+			border:2px solid #FCD116;
+			color:  #009900;
+			font-size:1em;
+			}
+			#email,#password{
+				width:20%;}
+			#statement{
+				width:50%;
+				}
+			#question{
+				margin:2.5em auto .5em auto;			
+				}
+			.questions{
+				font-size:1.4em;
+				font-weight:bold;
+				}	
+				.btn{
+					width:23%;
+					padding:1em;
+					font-size:1em;
+					margin:1%;
+					background-color:#009900;
+					border:2px solid #FCD116;
+					color:  #FCD116;
+					font-family: 'Nunito', sans-serif;			
+					}
+					.option{
+						width:1%;
+						background-color:transparent;
+						border:0px solid #FCD116;
+						color:  #FCD116;
+						font-family: 'Nunito', sans-serif;
+						margin-bottom:2em;	
+						}
+					.btn:hover, .btn:visited{				
+						color:#009900;
+						border:2px solid #FCD116;
+						background-color:  #FCD116;						
+						}
+			.next{			
+				width:10%;
+				padding:1em;
+				font-size:1em;
+				margin:1%;
+				background-color:#FFFFFF;
+				border:2px solid #FCD116;
+				color:  #009900;
+				font-family: 'Nunito', sans-serif;
+				position:absolute;
+				bottom:5vh;
+				right:5vh;	
+				}
+		
+		/* styles for charts and graphs*/						
+		 #Chart1{
+			width: 100% !important;/* main width*/
+			max-width: 400px;
+			height: auto !important;/* main height*/
+			margin:2% auto;
+			display:block;
+			}
+		#Chart2, #Chart3,#Chart4{
+			width: 100% !important;
+			max-width: 600px;
+			height: auto !important;
+			margin:2% auto;
+			display:block;
+			}			
+			#graph1,#graph2,#graph3,#graph4{
+				margin:2% auto;
+				display:none;
+				}
+	/* footer*/			
+	footer{
+		text-align:center;
+		margin-top:2em;
+		}
+		
+	/*media query for mobile version*/
+	@media (max-width:500px){
+		#quiz,#login_page, #admin_page{
+			width:98%;
+			margin:auto;
+			}
+		input,#name,#email,#password{
+			width:60%;
+			}
+			#statement{
+				width:80%;
+				}
+		.btn{
+			width:70%;}
+				
+		
+		}		
+					
